@@ -8,7 +8,8 @@ Here are the links to the YouTube videos
 [*📊 How to Create Dynamic Normal Distribution Graphs in Excel [Free GitHub Template] ⚡📈*
 ](https://youtu.be/o6-8Fpar9os)
 
-[📊 **Statistical Power in Excel: Plan Experiments Like a Data Scientist**](https://youtu.be/giC44FZirXI)
+[📊 **Statistical Power in Excel: Plan Experiments Like a Data Scientist - Part 1**](https://youtu.be/giC44FZirXI)
+[📊 **Statistical Power in Excel: Plan Experiments Like a Data Scientist - Part 2**](https://youtu.be/4C4vdQESdpM)
 
 Please do not hesitate sharing these learning resources.
 
