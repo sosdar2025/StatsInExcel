@@ -11,6 +11,8 @@ Here are the links to the YouTube videos
 [📊 **Statistical Power in Excel: Plan Experiments Like a Data Scientist - Part 1**](https://youtu.be/giC44FZirXI)
 [📊 **Statistical Power in Excel: Plan Experiments Like a Data Scientist - Part 2**](https://youtu.be/4C4vdQESdpM)
 
+[🔥 **The Exact Binomial Test in Excel – Master Hypothesis Testing Like a Pro!**](https://youtu.be/XJIuLgZ3MeE)
+
 Please do not hesitate sharing these learning resources.
 
 Enjoy!
