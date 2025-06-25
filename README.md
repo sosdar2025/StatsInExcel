@@ -13,6 +13,8 @@ Here are the links to the YouTube videos
 
 [🔥 **The Exact Binomial Test in Excel – Master Hypothesis Testing Like a Pro!**](https://youtu.be/XJIuLgZ3MeE)
 
+[🔥 **Data Science Hack: Use DELsTAndardization for Clearer Insights**](https://youtu.be/Lo9kDBaZeV4)
+
 Please do not hesitate sharing these learning resources.
 
 Enjoy!
