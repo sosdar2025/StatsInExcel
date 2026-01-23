@@ -60,4 +60,6 @@ or results.
 
 ----------------------------------------------------------------------------------------
 
-![](images/sosdar2025-PayPalQR.png){width="125"}Enjoy!
+![](images/sosdar2025-PayPalQR.png)
+
+Enjoy!
