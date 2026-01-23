@@ -58,8 +58,8 @@ or results.
 
 🔗 <https://paypal.me/blessingSOSDAR>
 
-[![PayPal QR Code](images/sosdar2025-PayPalQR.png){alt="PayPal QR Code"
-width="175"}](https://paypal.me/blessingSOSDAR)
+[![PayPal QR
+Code](images/sosdar2025-PayPalQR.png){width="175"}](https://paypal.me/blessingSOSDAR)
 
 ----------------------------------------------------------------------------------------
 
