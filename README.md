@@ -58,8 +58,6 @@ or results.
 
 🔗 <https://paypal.me/blessingSOSDAR>
 
-![](images/sosdar2025-PayPalQR.png){width="175"}
-
 ----------------------------------------------------------------------------------------
 
-Enjoy!
+![](images/sosdar2025-PayPalQR.png){width="125"}Enjoy!
