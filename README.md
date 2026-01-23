@@ -8,8 +8,7 @@ editor_options:
 
 A repo to share a few Excel files for simple stats. To see the list of files, click the
 following hyperlink.
-[\@sosdar2025](https://github.com/sosdar2025/StatsInExcel/tree/main/www)[
-StatsInExcel](https://github.com/sosdar2025/StatsInExcel/tree/main/www).
+[\@sosdar2025StatsInExcel](https://github.com/sosdar2025/StatsInExcel/tree/main/www).
 
 Here are the links to the YouTube videos [*Master the Normal Distribution in Excel –
 Step-by-Step Guide + Free Template!*](https://youtu.be/SZ3kOG_GLB4)
@@ -59,17 +58,9 @@ or results.
 
 🔗 <https://paypal.me/blessingSOSDAR>
 
-<p align="center">
-
 [![PayPal QR Code](images/sosdar2025-PayPalQR.png){alt="PayPal QR Code"
-width="250"}](https://paypal.me/blessingSOSDAR)
-
-</p>
+width="175"}](https://paypal.me/blessingSOSDAR)
 
 ----------------------------------------------------------------------------------------
-
-Generated with **MatchScore Wizzard**
-
-Please do not hesitate sharing these learning resources.
 
 Enjoy!
