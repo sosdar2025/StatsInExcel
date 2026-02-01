@@ -16,15 +16,15 @@ MatchScore Wizzard is a free, entertainment-only tool designed to help anyone or
 
 It is especially useful for:
 
--    **⚽ Football fans & friends groups** running casual prediction challenges
+-   **⚽ Football fans & friends groups** running casual prediction challenges
 
--    **🏪 Sports stores & local businesses** engaging customers during tournaments
+-   **🏪 Sports stores & local businesses** engaging customers during tournaments
 
--    **🎥 Influencers, YouTubers & commentators** increasing audience interaction
+-   **🎥 Influencers, YouTubers & commentators** increasing audience interaction
 
--    **🏢 Corporate wellness & engagement teams** promoting team bonding
+-   **🏢 Corporate wellness & engagement teams** promoting team bonding
 
--    **🏟️ Sports clubs, schools & community groups** organizing inclusive activities
+-   **🏟️ Sports clubs, schools & community groups** organizing inclusive activities
 
 -   MatchScore Wizzard automates scoring, rankings, and reporting using familiar Excel
     workflows and a simple Shiny web interface—no coding required.
@@ -40,22 +40,22 @@ Suggested prize tiers include:
 
 -   **Bronze:** Participation rewards (discounts, small merchandise)
 
--    **Silver:** Performance-based recognition (gift cards, bundles)
+-   **Silver:** Performance-based recognition (gift cards, bundles)
 
--    **Gold:** Top-performer experiences or premium prizes
+-   **Gold:** Top-performer experiences or premium prizes
 
 All prizes are provided and fulfilled by sponsors. MatchScore Wizzard does not manage
 payments, prizes, or logistics.
 
 ## ⚠️ Important Notes
 
--    MatchScore Wizzard is intended **solely for entertainment purposes**
+-   MatchScore Wizzard is intended **solely for entertainment purposes**
 
--    No gambling, betting, or financial rewards are involved
+-   No gambling, betting, or financial rewards are involved
 
--    Each contest is **independently organized** by its administrator
+-   Each contest is **independently organized** by its administrator
 
--    MatchScore Wizzard is **not affiliated with any sporting authority**
+-   MatchScore Wizzard is **not affiliated with any sporting authority**
 
 ## Optional Support
 
