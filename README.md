@@ -4,7 +4,7 @@
 
 # MatchScore Wizzard: Automating Football Prediction Contests with Excel, R & Shiny
 
-Video playlist (coming soon) →[✨ MatchScore Wizzard – Step-by-step Tutorial ✨ ⚽ Football is better together](https://www.youtube.com/playlist?list=PLY3Xa6tZyBmPzeeQPhLogphun8dAGgBdN "MatchScore Wizzard")
+📹Playlist →[✨ MatchScore Wizzard – Step-by-step Tutorial ✨ ⚽ Football is better together](https://www.youtube.com/playlist?list=PLY3Xa6tZyBmPzeeQPhLogphun8dAGgBdN "MatchScore Wizzard")
 
 ## 🎯 Who Is MatchScore Wizzard For?
 
